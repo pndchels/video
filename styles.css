@@ -237,7 +237,7 @@ h1 {
   font-size: 0.85rem;
   cursor: pointer;
   text-transform: capitalize;
-  color: var(--clr-primary-5);
+  color: red;
 }
 .switch {
   position: absolute;
@@ -245,7 +245,7 @@ h1 {
   height: 100%;
   top: 0;
   left: 0;
-  background: var(--clr-primary-5);
+  background: red;
   border-radius: var(--radius);
   margin: 0;
   display: block;
